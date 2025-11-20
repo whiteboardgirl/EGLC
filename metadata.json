@@ -1,0 +1,5 @@
+{
+  "name": "EGLC Harmonic Interface",
+  "description": "A specialized interface for the Echo General Linguistic Core (EGLC). Features a parser, lattice visualizer, trust packet engine, and a direct bridge to Gemini for ethical, symbolic cognition cycles.",
+  "requestFramePermissions": []
+}
